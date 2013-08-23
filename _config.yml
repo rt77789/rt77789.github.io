@@ -2,3 +2,5 @@ name: Yesterday
 markdown: redcarpet
 pygments: true
 title: Memories
+redcarpet:
+    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]

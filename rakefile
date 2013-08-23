@@ -2,8 +2,11 @@ require 'rubygems'
 require 'optparse'
 require 'yaml'
 
+# rake np -- title_name
+desc "Create a new empty post."
 task :np do
 	OptionParser.new.parse!
+	# Remove the --
 	ARGV.shift
 	title = ARGV.join(' ')
 
