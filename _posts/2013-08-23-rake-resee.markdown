@@ -11,7 +11,7 @@ Jekyll 代码高亮，需要修改_config.yml文件。修改相应内容：
 pygments: true
 markdown: redcarpet
 redcarpet:
- 	extensions: ["fenced_code_blocks", "autolink", "tabl
+	extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
 ```
 
 这样就完事了，够简单，够省事。
