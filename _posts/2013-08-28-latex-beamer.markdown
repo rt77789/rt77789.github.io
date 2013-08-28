@@ -55,7 +55,7 @@ title: "Lab502 Beamer Template"
 		\item Hello, Mars! \pause 
 		\item Hello, Alpha Centauri!
 	\end{itemize}{% endhighlight %}
-	通过item制定页面序号的方式完成同样的显示：{% highlight tex %}\begin{itemize}
+	通过item指定页面序号的方式完成同样的显示：{% highlight tex %}\begin{itemize}
 		\item<2-> Hello, World! 
 		\item<3-> Hello, Mars! 
 		\item<4-> Hello, Alpha Centauri!
