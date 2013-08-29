@@ -34,4 +34,10 @@ Emacs的配置真特么是极其复杂，并且问题频出。
 大概内容就如此了，真是把我折腾的可以，以后尽量用emacs写代码，像latex这种东西，确实是非常方便。
 
 ps: M - x 表示alt键加x，RET表示回车/Enter。
+
+
+![图片](/images/2013-08-29-emacs-config_1.png) 
+
+<center>Figure 1, Snapshot of this post.</center>
+
 [purcell]: https://github.com/purcell/emacs.d "purcell's emacs.d configuration"
